@@ -1,7 +1,8 @@
 <?php
     echo "<H1> USO DE SWITCH </H1>";
     $fruta="piña";
-    echo "VERSION 2";
+    echo "<h2>VERSION 2 </h2>";
+    echo "<h2>VERSION 3 </h2>";
     switch( $fruta ){
         case "Manzana":
             echo "eres una Manzana";
